@@ -1,2 +1,3 @@
 # Reflow_Oven
-Convert a toaster oven to reflow solder for SMD circuit boards
+The PDF describes how to convert a toaster oven into a reflow oven for soldering surface mount devices on circuit boards.
+The Arduino code runs on a Nano clone and controls the oven temperature for a standard tin-lead solder profile.
