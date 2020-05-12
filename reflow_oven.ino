@@ -279,7 +279,7 @@ void loop() {
         lcd.print("sPk"); // s for seconds & Pk for peak
 
         while(1) {
-          //infinite loop so the Arduino seial monitor screen values can be copied to a file
+          //infinite loop so the Arduino serial monitor screen values can be copied to a file
         }
       }
       break;      
